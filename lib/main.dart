@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
             width: 100.0,
             height: 100.0,
             margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 100.0),
-            padding: EdgeInsets.all(20.0),
+            padding: EdgeInsets.all(30.0),
             color: Colors.white,
             child: Text('Hello'),
           ),
